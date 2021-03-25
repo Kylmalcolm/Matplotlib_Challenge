@@ -1,6 +1,6 @@
 <h1> Tumor Treatment Mouse Study in Python </h2>
 
-In this project I used a variety of techniques in python to examine a mock-up mouse study of various drugs and their effectiveness. Vizualizations wree created using the matplotlib library.
+In this project I used a variety of techniques in python to examine a mock-up mouse study of various drugs and their effectiveness. Visualizations were created using the matplotlib library.
 
 <h2> Observations: </h2>
 
